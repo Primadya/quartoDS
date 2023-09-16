@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Associate Data Science"
+  author: "Bengkel Koding"
+  date: "7/31/2023"
+  chapters:
+    - index.qmd
+    - part: konsep.qmd
+      chapters: 
+        - modul_1.qmd
+        - modul_2.qmd
+        - modul_3.qmd
+        - modul_4.qmd
+        - modul_5.qmd
+        - modul_6.qmd
+        - modul_7.qmd
+        - modul_8.qmd
+        - modul_9.qmd
+        - modul_10.qmd
+    - part: studi_kasus.qmd
+      chapters:
+        - project_klasifikasi.qmd
+        - project_regresi.qmd
+        - project_clustering.qmd
+    
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
+
+
+

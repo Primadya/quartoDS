@@ -1,0 +1,5 @@
+# <b>Pengantar</b> {.unnumbered}
+
+Selamat datang dalam modul pembelajaran online tentang Data Science. Modul ini dirancang untuk memberi Anda pemahaman yang komprehensif tentang konsep, metode, dan aplikasi yang terkait dengan Data Science. Dalam era digital yang terus berkembang, Data Science telah menjadi elemen kunci dalam pengambilan keputusan yang informasional dan cerdas di berbagai bidang, mulai dari bisnis hingga penelitian ilmiah.
+
+Diharapkan dengan mengikuti modul ini, Anda akan dapat memahami konsep dasar Data Science, menguasai metode analisis data, dan mengembangkan keterampilan pemrograman Python untuk mengolah data dan membuat model machine learning.

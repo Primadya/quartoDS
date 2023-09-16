@@ -1,0 +1,8 @@
+# <b>Studi Kasus</b> {.unnumbered}
+<br>
+
+Berikut daftar studi kasus yang dapat digunakan untuk mempelajari materi pada modul ini:
+
+1. **Project Klasifikasi Sentimen Analisis**
+2. **Project Regresi Prediksi Harga Kamar Hotel**
+3. **Project Clustering - Spotify Playlist Clustering**
